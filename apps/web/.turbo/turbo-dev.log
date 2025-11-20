@@ -1,0 +1,25 @@
+
+
+> web@0.1.0 dev /Users/kate/Desktop/React/Projects/book-club/apps/web
+> next dev --turbopack
+
+ [33m[1m⚠[22m[39m `experimental.typedRoutes` has been moved to `typedRoutes`. Please update your next.config.ts file accordingly.
+   [1m[38;2;173;127;168m▲ Next.js 15.5.3[39m[22m (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.2:3000
+   - Experiments (use with caution):
+     [1m✓[22m typedRoutes
+
+ [32m[1m✓[22m[39m Starting...
+[35m[1mAttention[22m[39m: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+[36mhttps://nextjs.org/telemetry[39m
+
+ [32m[1m✓[22m[39m Ready in 844ms
+ [37m[1m○[22m[39m Compiling / ...
+ [32m[1m✓[22m[39m Compiled / in 2s
+ GET / [32m200[39m in 2342ms
+ [32m[1m✓[22m[39m Compiled /favicon.ico in 164ms
+ GET /favicon.ico?favicon.0b3bf435.ico [32m200[39m in 426ms
+[?25h

@@ -1,0 +1,16 @@
+# node
+node_modules
+
+
+# build
+**/dist
+.next
+
+
+# env
+.env*
+
+
+# editor
+.vscode
+.idea
