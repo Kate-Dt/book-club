@@ -1,12 +1,10 @@
 import type { NextConfig } from "next";
 
-
 const nextConfig: NextConfig = {
-experimental: {
-typedRoutes: true,
-},
-transpilePackages: ["@bc/ui", "@bc/core", "@bc/ai"],
+  experimental: {
+    typedRoutes: true,
+  },
+  transpilePackages: ["@bc/ui", "@bc/core"],
 };
-
 
 export default nextConfig;
