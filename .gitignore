@@ -14,3 +14,7 @@ node_modules
 # editor
 .vscode
 .idea
+
+#turbo
+.turbo/
+**/.turbo/
