@@ -13,7 +13,8 @@
     "react-dom": "19.1.0",
     "next": "15.5.3",
     "@bc/ui": "workspace:*",
-    "@bc/core": "workspace:*"
+    "@bc/core": "workspace:*",
+    "@bc/ai": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5",
