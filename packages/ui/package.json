@@ -7,6 +7,10 @@
     "react": "^18 || ^19",
     "react-dom": "^18 || ^19"
   },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.5.2"
+  },
   "exports": {
     ".": {
       "types": "./src/index.ts",
